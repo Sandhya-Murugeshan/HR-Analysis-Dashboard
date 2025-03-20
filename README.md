@@ -19,7 +19,7 @@ Data Refresh Information:
 By transforming this data into an insightful dashboard, the company will gain a clearer
 understanding of their workforce dynamics and be better equipped to make informed decisions.
 
-# some pictures of Dashboard: 
+# picture of Dashboard: 
 ![Screenshot 2025-03-19 211921](https://github.com/user-attachments/assets/16c36687-c931-4d9d-a294-d99b3dc91c48)
 
 
