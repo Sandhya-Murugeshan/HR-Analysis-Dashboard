@@ -28,7 +28,7 @@ name.
 # Data Refresh Information:
 
 - Incorporate a visual element indicating the date and time of the last data refresh.
-By transforming this data into an insightful dashboard, the company will gain a clearer
+By transforming this data into an insightful dashboard, a clearer
 understanding of their workforce dynamics and be better equipped to make informed decisions.
 
 # picture of Dashboard: 
