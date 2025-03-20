@@ -22,5 +22,4 @@ understanding of their workforce dynamics and be better equipped to make informe
 # some pictures of Dashboard: 
 ![Screenshot 2025-03-19 211921](https://github.com/user-attachments/assets/16c36687-c931-4d9d-a294-d99b3dc91c48)
 
-![Screenshot 2025-03-19 211834](https://github.com/user-attachments/assets/e4f16e1b-0eaa-4b05-b94a-de1098bcd996)
 
