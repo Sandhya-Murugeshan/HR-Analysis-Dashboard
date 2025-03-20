@@ -2,6 +2,7 @@
 Power BI
 
 Power BI Project - HR Data
+
 Developed a Power BI project focused on HR data for a company facing challenges in comprehending their employee data to extract valuable insights. 
 comprehensive dashboard that includes the following components:
 
